@@ -34,4 +34,4 @@ Watching address  serverIP:20086/
 Restart PUBG-Radar command
 
 ```bash
-cd /root/pubgradar;. restart.sh
+cd /root/pubg;. restart.sh
