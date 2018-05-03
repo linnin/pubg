@@ -15,11 +15,11 @@ yum install git;git clone https://github.com/linnin/pubg.git;chmod +x . /root/pu
 
 ## Translation
 
-回车后开始安装  Enter after installation
+回车后开始安装 Enter after installation
 
-记住了吗？任意键继续
+记住了吗？任意键继续 Remember? Any key continues
 
-请输入你的内网ip 
+请输入你的内网ip Please enter your private Network ip
 
 搭建完成 Build up
 
